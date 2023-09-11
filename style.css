@@ -12,3 +12,11 @@ body{
     color: #00ff3c;
     font-weight: bolds;
 }
+
+#hobbyText{
+    width: 470px;
+}
+
+#nameContainer{
+float: left;
+}
